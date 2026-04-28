@@ -15,6 +15,6 @@ This repository documents my long-term journey of solving progressively harder a
 - Build stronger backend engineering fundamentals
 
 ## Progress
-Current completed challenges: X
+Current completed challenges: 1
 
 This repository will continue growing over time.
