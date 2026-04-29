@@ -1,23 +1,5 @@
-# Palindrome Checker
+## Code Evolution
 
-## Problem
-Determine whether a word or phrase is a palindrome.
+This challenge includes previous versions to document my learning process.
 
-## Features
-- Ignores uppercase/lowercase differences
-- Removes invalid characters
-- Handles accented characters using Java Normalizer
-
-## Approach
-1. Normalize input
-2. Remove non-letter characters
-3. Compare characters from both ends toward the center
-
-## Time Complexity
-O(n)
-
-## Space Complexity
-O(n)
-
-## What I learned
-How to clean user input and compare characters efficiently.
+The refactored solution contains my best current implementation.
